@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(236, 228, 217);
+    margin: 0px;
+    padding: 0px;
+}
+nav a{
+    text-decoration: none;
+    margin-left: 4%;
+    color: black;
+    transition: absolute;
+}
+nav{
+    text-align: center;
+
+}
+a:hover{
+    color: rgb(3, 99, 32);
+}
+footer{
+    border:1px solid green;
+    border-radius: 15px;
+    border-right: none;
+    border-left: none;
+    border-left: none;
+    border-bottom: none;
+}
+
